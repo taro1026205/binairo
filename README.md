@@ -8,5 +8,6 @@ Two algorithms used in this assignment:
 
 
 To see the productivity comparison, run main.py
+
 To see the visualised display, run gui.py
 

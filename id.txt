@@ -2,4 +2,4 @@
 10x10: 9,137,615
 14x14: 2,408,132
 
-#Note: This file is used for checking the puzzle's goal state on 
+#Note: This file is used for checking the puzzle's goal state on https://www.puzzle-binairo.com/

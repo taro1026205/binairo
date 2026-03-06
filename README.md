@@ -5,6 +5,8 @@ In this project, I use both blind search and heuristics search to find series of
 Two algorithms used in this assignment:
 - Blind search: DFS with Backtracking
 - Heuristics search for Constraint Satisfaction Problem (CSP) using three core mechanisms: Constraint Propagation, Degree Heuristic and Early Pruning
+
+
 To see the productivity comparison, run main.py
 To see the visualised display, run gui.py
 

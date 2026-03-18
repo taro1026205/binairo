@@ -1,4 +1,4 @@
-# CO3061-Introduction to AI-Assignment
+# CO3061-Introduction to AI-Assignment Course
 # Binairo Puzzle
 My application solves the Binairo puzzle game acording to https://www.puzzle-binairo.com
 In this project, I use both blind search and heuristics search to find series of action that can solve this game.
